@@ -55,4 +55,4 @@
 >
 > **FE:** HTML, CSS3, SASS, JS (Vue + Vuex)
 >
-> If there is a need or wish to use a different stack, for example `Node`, `PHP`, `Python`, `Go` etc. Different frameworks, like `Dot NET core`, `ReactJS`, `Angular`, `Symfony`, `Jango` etc. Maybe with different cloud service like `AWS` you will need to align this with Principals and Solutions Guild first.
+> If there is a need or wish to use a different stack, for example `Node`, `PHP`, `Python`, `Go` etc. Different frameworks, like `Dot NET core`, `ReactJS`, `Angular`, `Symfony`, `Jango` etc. Maybe with different cloud service like `AWS` you will need to align this with `Principals Group` first.
