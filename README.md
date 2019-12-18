@@ -50,4 +50,9 @@
 ### <a id="tech_stack"></a>Tech Stack
 > We currently have established stacks we use for BackEnd & FrontEnd
 > Which are:
-> BE: C# with dot NET allocated on either TFS of ADO (AzureDevOps) environments. 
+>
+> **BE:** C# with dot NET allocated on either TFS of ADO (AzureDevOps) environments.
+>
+> **FE:** HTML, CSS3, SASS, JS (Vue + Vuex)
+>
+> If there is a need or wish to use different stack, for example `Node`, `PHP`, `Python`, `Go` etc. Different frameworks, like `Dot NET core`, `ReactJS`, `Angular`, `Symfony`, `Jango` etc. Maybe with different cloud service like `AWS` you will need to align this with Principals and Solutions Guild first.
