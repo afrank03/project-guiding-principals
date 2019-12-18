@@ -51,7 +51,7 @@
 > We currently have established stacks we use for BackEnd & FrontEnd
 > Which are:
 >
-> **BE:** C# with dot NET allocated on either TFS of ADO (AzureDevOps) environments.
+> **BE:** C# with dot NET allocated on either TFS or ADO (AzureDevOps) environments.
 >
 > **FE:** HTML, CSS3, SASS, JS (Vue + Vuex)
 >
