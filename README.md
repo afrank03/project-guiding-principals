@@ -49,9 +49,9 @@
 - Do we need a Terms of Engagement / Contract / Code of conducts?
 - Do we have Documentation initialised in Wiki?
 
+---
 
-## Appendixes
-### <a id="tech_stack"></a>Tech Stack
+### Appendix 1 <a id="tech_stack"></a>Tech Stack
 > We currently have established stacks we use for BackEnd & FrontEnd
 > Which are:
 >
