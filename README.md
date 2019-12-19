@@ -1,9 +1,10 @@
 # Project Guiding Principals
 ## Pre-squad formation phase
 - Who is the Business Owner (BO) for the project?
-- Who is the Tech Owner for the project?
-- Is there an expected delivery date (deadline)?
+- Who is the Tech Lead for the project?
+- Is there an expected delivery date (deadline) eg. `external event`?
 - Is there a Product spec for the project?
+- Will the squad including the PM and DM be given autonomy?
 - Who is going to work on this project?
   - Which Squad(s)?
   - Who is PM/DM?
@@ -19,20 +20,22 @@
   - How many Seniors?
   - How many mids?
   - How many juniors?
+  - Number and make up of Software Emgineers / QA Engineers / Dev Ops etc.
 
 ## After squad is formed phase
 - What is the Source Repository for the project?
   - Is it a new or old system?
+- Do we need a Teams Site / Slack Channel?
 - Is this project candidate for interaction with DesignSystem (DS)?
 - What is the Tech stack? See ["Tech Stack" Appendix](#tech_stack).
   - Frontend?
   - Backend?
   - Is it new/old tech?  
 - Did we TKO'd (Kicked off / Three amigos session) the project?
-- Do we need a new environment for this project?
+- Do we need a new environment(s) for this project?
   - If yes, then we need TechOps resource
   - If no, do we need any TechOps help?
-- Is there any engagement with other departments?
+- Is there any engagement with other departments (Consider using a RACI see DM for that)?
   - Marketing
   - Business
   - Product
@@ -43,6 +46,7 @@
   - Data
 - Are there any Architectural considerations?
 - Did we have Backlog creation session aka Sprint 0?
+- Do we need a Terms of Engagement / Contract / Code of conducts?
 - Do we have Documentation initialised in Wiki?
 
 
