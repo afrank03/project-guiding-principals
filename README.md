@@ -46,7 +46,7 @@
   - Data
 - Are there any Architectural considerations?
 - Did we have Backlog creation session aka Sprint 0?
-- Do we need a Terms of Engagement / Contract / Code of conducts?
+- Do we need a Terms of Engagement / Contract / Charter?
 - Do we have Documentation initialised in Wiki?
 
 ---
