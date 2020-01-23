@@ -1,4 +1,4 @@
-# Project Guiding Principals
+# Project Guiding Principles
 ## Pre-squad formation phase
 - Who is the Business Owner (BO) for the project?
 - Who is the Tech Lead for the project?
