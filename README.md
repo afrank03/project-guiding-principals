@@ -44,6 +44,7 @@
   - Compliance
   - Legal
   - Data
+  - Strategy `(Strategy team can be used to assist with department synchronisation)`
 - Are there any Architectural considerations?
 - Did we have Backlog creation session aka Sprint 0?
 - Do we need a Terms of Engagement / Contract / Charter?
